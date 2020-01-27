@@ -1,6 +1,10 @@
 from .index import semver
-from subprocess import Popen
+from .config import Config
+from subprocess import run
+from pathlib import Path
 
 
 if __name__ == '__main__':
-    Popen(['git', 'log'])
+    logs = run(['git', 'log'], capture_output=True).stdout.decode()
+    config = Config.from_yaml(Path.cwd()/'semver.yml')
+    print(semver(logs, config))

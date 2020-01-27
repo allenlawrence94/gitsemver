@@ -1,0 +1,3 @@
+major: 'api\('
+minor: 'feat\('
+patch: '(fix|chore|docs|style|refactor|test|ci|build|perf)\('

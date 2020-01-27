@@ -21,7 +21,3 @@ def test_parse_commits(parser: LogParser, git_logs):
     for c in commits:
         assert c in {2, 1}
 
-
-def test_real_parse_commits(git_logs, semver_config):
-    parser = LogParser(semver_config)
-    breakpoint()

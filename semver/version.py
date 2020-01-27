@@ -3,7 +3,7 @@
 class Versioner(object):
 
     def __init__(self, version: list=None):
-        self._version = [0, 0, 0]
+        self._version = [0, 1, 0]
 
         if isinstance(version, (list, tuple)):
             if len(version) == 3:
