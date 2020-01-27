@@ -1,0 +1,124 @@
+0000000000000000000000000000000000000000 f4053b99332bab3abf20b615531883903f9c2ed9 Allen Lawrence <allenlawrence94@gmail.com> 1553536516 -0700	clone: from https://battery_allen@bitbucket.org/cypresscreekrenewables/energy-model.git
+f4053b99332bab3abf20b615531883903f9c2ed9 6e940fda39632a919ce1b325a91a4b2ff97bb723 Allen Lawrence <allenlawrence94@gmail.com> 1553536737 -0700	checkout: moving from master to feat/energy_model_reports
+6e940fda39632a919ce1b325a91a4b2ff97bb723 f4053b99332bab3abf20b615531883903f9c2ed9 Allen Lawrence <allenlawrence94@gmail.com> 1554488433 -0700	checkout: moving from feat/energy_model_reports to master
+f4053b99332bab3abf20b615531883903f9c2ed9 84c484703850ef4157342b7e289391a71f020b49 Allen Lawrence <allenlawrence94@gmail.com> 1554488450 -0700	pull: Fast-forward
+84c484703850ef4157342b7e289391a71f020b49 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1555106103 -0700	pull: Fast-forward
+5560a3000d0319bbd0457d3980ea643f7b3fb06e 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1555971890 -0700	checkout: moving from master to fix/use-without-smartsheet-tokem
+5560a3000d0319bbd0457d3980ea643f7b3fb06e 0000000000000000000000000000000000000000 Allen Lawrence <allenlawrence94@gmail.com> 1555971902 -0700	Branch: renamed refs/heads/fix/use-without-smartsheet-tokem to refs/heads/fix/use-without-smarthseeht-token
+0000000000000000000000000000000000000000 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1555971902 -0700	Branch: renamed refs/heads/fix/use-without-smartsheet-tokem to refs/heads/fix/use-without-smarthseeht-token
+5560a3000d0319bbd0457d3980ea643f7b3fb06e 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1555971926 -0700	checkout: moving from fix/use-without-smarthseeht-token to master
+5560a3000d0319bbd0457d3980ea643f7b3fb06e 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1555971938 -0700	checkout: moving from master to fix/use-without-smarthseeht-token
+5560a3000d0319bbd0457d3980ea643f7b3fb06e 0000000000000000000000000000000000000000 Allen Lawrence <allenlawrence94@gmail.com> 1555971968 -0700	Branch: renamed refs/heads/fix/use-without-smarthseeht-token to refs/heads/fix/use-without-smartsheet-token
+0000000000000000000000000000000000000000 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1555971968 -0700	Branch: renamed refs/heads/fix/use-without-smarthseeht-token to refs/heads/fix/use-without-smartsheet-token
+5560a3000d0319bbd0457d3980ea643f7b3fb06e b17a29bd52296c88ce3d7094f489a4938ff642b9 Allen Lawrence <allenlawrence94@gmail.com> 1556315988 -0700	commit: fix(smartsheet): no connection triggered upon import of smarthsheet stuff
+b17a29bd52296c88ce3d7094f489a4938ff642b9 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1556547403 -0700	checkout: moving from fix/use-without-smartsheet-token to master
+5560a3000d0319bbd0457d3980ea643f7b3fb06e b17a29bd52296c88ce3d7094f489a4938ff642b9 Allen Lawrence <allenlawrence94@gmail.com> 1556547510 -0700	checkout: moving from master to fix/use-without-smartsheet-token
+b17a29bd52296c88ce3d7094f489a4938ff642b9 7ad9e850858d6452f1dcabebb8e3ad654decb348 Allen Lawrence <allenlawrence94@gmail.com> 1556548441 -0700	commit: fix(smartsheet): fixed import of Smartsheet client
+7ad9e850858d6452f1dcabebb8e3ad654decb348 5560a3000d0319bbd0457d3980ea643f7b3fb06e Allen Lawrence <allenlawrence94@gmail.com> 1557428901 -0700	checkout: moving from fix/use-without-smartsheet-token to master
+5560a3000d0319bbd0457d3980ea643f7b3fb06e 09516f2efdfaa9c600336ad4dca7fe21d3875cb0 Allen Lawrence <allenlawrence94@gmail.com> 1557428953 -0700	pull: Fast-forward
+09516f2efdfaa9c600336ad4dca7fe21d3875cb0 09516f2efdfaa9c600336ad4dca7fe21d3875cb0 Allen Lawrence <allenlawrence94@gmail.com> 1557434757 -0700	checkout: moving from master to dev/continuous-testing
+09516f2efdfaa9c600336ad4dca7fe21d3875cb0 0000000000000000000000000000000000000000 Allen Lawrence <allenlawrence94@gmail.com> 1557874298 -0700	Branch: renamed refs/heads/dev/continuous-testing to refs/heads/dev/change-tracked-testing
+0000000000000000000000000000000000000000 09516f2efdfaa9c600336ad4dca7fe21d3875cb0 Allen Lawrence <allenlawrence94@gmail.com> 1557874298 -0700	Branch: renamed refs/heads/dev/continuous-testing to refs/heads/dev/change-tracked-testing
+09516f2efdfaa9c600336ad4dca7fe21d3875cb0 db00e3871601d1bec7cb59fc535873b0430801c9 Allen Lawrence <allenlawrence94@gmail.com> 1557874743 -0700	commit: dev(sandbox): docker-compose-dev.yml shares entire project directory as volume
+db00e3871601d1bec7cb59fc535873b0430801c9 509bac10dab1e607b44e16506c864c67a26d7a6c Allen Lawrence <allenlawrence94@gmail.com> 1558039729 -0700	commit: fix(sandbox): no longer export build arguments in sandbox script (docker-compose handles this with a .env file). Script spins down docker network even if start up fails.
+509bac10dab1e607b44e16506c864c67a26d7a6c 09516f2efdfaa9c600336ad4dca7fe21d3875cb0 Allen Lawrence <allenlawrence94@gmail.com> 1558119071 -0700	checkout: moving from dev/change-tracked-testing to master
+09516f2efdfaa9c600336ad4dca7fe21d3875cb0 a42f5a73322a77fb3ac588ce78f4e368e4027ae6 Allen Lawrence <allenlawrence94@gmail.com> 1558119081 -0700	pull: Fast-forward
+a42f5a73322a77fb3ac588ce78f4e368e4027ae6 a42f5a73322a77fb3ac588ce78f4e368e4027ae6 Allen Lawrence <allenlawrence94@gmail.com> 1558122317 -0700	checkout: moving from master to feat/pvsyst-sim
+a42f5a73322a77fb3ac588ce78f4e368e4027ae6 a42f5a73322a77fb3ac588ce78f4e368e4027ae6 Allen Lawrence <allenlawrence94@gmail.com> 1558122909 -0700	reset: moving to HEAD
+a42f5a73322a77fb3ac588ce78f4e368e4027ae6 a42f5a73322a77fb3ac588ce78f4e368e4027ae6 Allen Lawrence <allenlawrence94@gmail.com> 1558122918 -0700	checkout: moving from feat/pvsyst-sim to master
+a42f5a73322a77fb3ac588ce78f4e368e4027ae6 a42f5a73322a77fb3ac588ce78f4e368e4027ae6 Allen Lawrence <allenlawrence94@gmail.com> 1558123055 -0700	reset: moving to HEAD
+a42f5a73322a77fb3ac588ce78f4e368e4027ae6 a42f5a73322a77fb3ac588ce78f4e368e4027ae6 Allen Lawrence <allenlawrence94@gmail.com> 1558123064 -0700	reset: moving to HEAD
+a42f5a73322a77fb3ac588ce78f4e368e4027ae6 da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1561756220 -0700	pull -f: Fast-forward
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1561756517 -0700	reset: moving to HEAD
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1561756807 -0700	reset: moving to HEAD
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1561760203 -0700	reset: moving to HEAD
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c b7b65b132d192651bbc0da5b5d2351f0394b7b88 Allen Lawrence <allenlawrence94@gmail.com> 1561760346 -0700	commit: feat(package.sh): packaging script
+b7b65b132d192651bbc0da5b5d2351f0394b7b88 b7b65b132d192651bbc0da5b5d2351f0394b7b88 Allen Lawrence <allenlawrence94@gmail.com> 1561760361 -0700	checkout: moving from master to feat/pypi-upload
+b7b65b132d192651bbc0da5b5d2351f0394b7b88 b7b65b132d192651bbc0da5b5d2351f0394b7b88 Allen Lawrence <allenlawrence94@gmail.com> 1561760372 -0700	checkout: moving from feat/pypi-upload to master
+b7b65b132d192651bbc0da5b5d2351f0394b7b88 da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1561760377 -0700	reset: moving to HEAD^
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1561760823 -0700	checkout: moving from master to feat/pypi-upload
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1561761716 -0700	commit: feat(package.sh): package script
+bfa21794c8b7870066daea617cc1247ebfbec1a4 bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1563561647 -0700	reset: moving to HEAD
+bfa21794c8b7870066daea617cc1247ebfbec1a4 81050e7116121575e8a81fb053a6022f693213c0 Allen Lawrence <allenlawrence94@gmail.com> 1563561652 -0700	checkout: moving from feat/pypi-upload to fix/separate-package-from-service-1
+81050e7116121575e8a81fb053a6022f693213c0 9749951aeb333605d735cce1a425d0930d97d9b1 Allen Lawrence <allenlawrence94@gmail.com> 1563573081 -0700	commit: fix(test_energy_model_reports): uses weather fixture instead of failing to use ccrmod_weather
+9749951aeb333605d735cce1a425d0930d97d9b1 52c8c96b82c5b7b33407a2c116ba25362c1c89ee Allen Lawrence <allenlawrence94@gmail.com> 1563574622 -0700	commit: ci(build-test): scripts and pipeline for building and running all tests
+52c8c96b82c5b7b33407a2c116ba25362c1c89ee 34ed9fadc60c2a2704f97129a2596893769e1774 Allen Lawrence <allenlawrence94@gmail.com> 1563576599 -0700	commit: fix(coverage): removed coverage from pipeline tests - package is invisible to pytest, so coverage gets confused
+34ed9fadc60c2a2704f97129a2596893769e1774 1718fd47e7b7ab660f33acefc41e2bc0e3b63b22 Allen Lawrence <allenlawrence94@gmail.com> 1563577724 -0700	commit: fix(setup): added project.utils to setup.py
+1718fd47e7b7ab660f33acefc41e2bc0e3b63b22 9033af8f8fcb89fb92f0977ccc807c55b355c27a Allen Lawrence <allenlawrence94@gmail.com> 1563582432 -0700	commit: fix(build-test): break out unit and integration in hopes of better memory management. build-test now exits on error
+9033af8f8fcb89fb92f0977ccc807c55b355c27a 05399db4894b71401027ac15bfdbc717759e976a Allen Lawrence <allenlawrence94@gmail.com> 1563585286 -0700	commit: fix(integration tests): removed all module level code to improve collection / memory usage
+05399db4894b71401027ac15bfdbc717759e976a da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1568229593 -0700	checkout: moving from fix/separate-package-from-service-1 to master
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1568229617 -0700	checkout: moving from master to fix/battery-efficiency
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c f179ae5aba156d12c92d04996fce9f48eee6a996 Allen Lawrence <allenlawrence94@gmail.com> 1568230027 -0700	commit: fix(default efficiencies): default charge_eff and discharge_eff in BatteryMixin now set to 0.917
+f179ae5aba156d12c92d04996fce9f48eee6a996 51d3c5f9f1482458d5a90c64377698149abd1335 Allen Lawrence <allenlawrence94@gmail.com> 1568246560 -0700	commit: fix(battery energy): internal energy capacity is function of discharge_eff
+51d3c5f9f1482458d5a90c64377698149abd1335 f3c55f8b5321286b9ed2940f4a265c500a848b27 Allen Lawrence <allenlawrence94@gmail.com> 1568311040 -0700	commit: feat(capacity): capacity property calculates max SOC
+f3c55f8b5321286b9ed2940f4a265c500a848b27 da0ba9ab2a354d00546584cd2b96f18b24d79e9c Allen Lawrence <allenlawrence94@gmail.com> 1568314399 -0700	checkout: moving from fix/battery-efficiency to master
+da0ba9ab2a354d00546584cd2b96f18b24d79e9c f59ad2c33779a44114a852d54a43f98f405199dc Allen Lawrence <allenlawrence94@gmail.com> 1568314411 -0700	pull: Fast-forward
+f59ad2c33779a44114a852d54a43f98f405199dc f3c55f8b5321286b9ed2940f4a265c500a848b27 Allen Lawrence <allenlawrence94@gmail.com> 1568314431 -0700	checkout: moving from master to fix/battery-efficiency
+f3c55f8b5321286b9ed2940f4a265c500a848b27 f59ad2c33779a44114a852d54a43f98f405199dc Allen Lawrence <allenlawrence94@gmail.com> 1568314440 -0700	rebase: checkout master
+f59ad2c33779a44114a852d54a43f98f405199dc cc9efc5a34f3c74fdf8af29ec135055870195cef Allen Lawrence <allenlawrence94@gmail.com> 1568314440 -0700	rebase: fix(default efficiencies): default charge_eff and discharge_eff in BatteryMixin now set to 0.917
+cc9efc5a34f3c74fdf8af29ec135055870195cef 58b4baf670170f57dbdc661502a4a07b527ff3c9 Allen Lawrence <allenlawrence94@gmail.com> 1568314440 -0700	rebase: fix(battery energy): internal energy capacity is function of discharge_eff
+58b4baf670170f57dbdc661502a4a07b527ff3c9 6c806f910f128648fa53f730129052a4eeaa90bb Allen Lawrence <allenlawrence94@gmail.com> 1568314440 -0700	rebase: feat(capacity): capacity property calculates max SOC
+6c806f910f128648fa53f730129052a4eeaa90bb 6c806f910f128648fa53f730129052a4eeaa90bb Allen Lawrence <allenlawrence94@gmail.com> 1568314440 -0700	rebase finished: returning to refs/heads/fix/battery-efficiency
+6c806f910f128648fa53f730129052a4eeaa90bb f59ad2c33779a44114a852d54a43f98f405199dc Allen Lawrence <allenlawrence94@gmail.com> 1568761063 -0700	checkout: moving from fix/battery-efficiency to master
+f59ad2c33779a44114a852d54a43f98f405199dc 65146d1db9a83e1553c167f39e76968994775667 Allen Lawrence <allenlawrence94@gmail.com> 1568761066 -0700	pull: Fast-forward
+65146d1db9a83e1553c167f39e76968994775667 6c806f910f128648fa53f730129052a4eeaa90bb Allen Lawrence <allenlawrence94@gmail.com> 1568761071 -0700	checkout: moving from master to fix/battery-efficiency
+6c806f910f128648fa53f730129052a4eeaa90bb 65146d1db9a83e1553c167f39e76968994775667 Allen Lawrence <allenlawrence94@gmail.com> 1568761077 -0700	rebase: checkout master
+65146d1db9a83e1553c167f39e76968994775667 1bb7e88fcb66628778b8fc9a9c9b391ddec45d63 Allen Lawrence <allenlawrence94@gmail.com> 1568761077 -0700	rebase: fix(default efficiencies): default charge_eff and discharge_eff in BatteryMixin now set to 0.917
+1bb7e88fcb66628778b8fc9a9c9b391ddec45d63 90643eada5ceb3eca0251d3e66a259c3502a1cce Allen Lawrence <allenlawrence94@gmail.com> 1568761077 -0700	rebase: fix(battery energy): internal energy capacity is function of discharge_eff
+90643eada5ceb3eca0251d3e66a259c3502a1cce 6797188629c7e4006e0aaa3d7614ce3d5e358f65 Allen Lawrence <allenlawrence94@gmail.com> 1568761077 -0700	rebase: feat(capacity): capacity property calculates max SOC
+6797188629c7e4006e0aaa3d7614ce3d5e358f65 6797188629c7e4006e0aaa3d7614ce3d5e358f65 Allen Lawrence <allenlawrence94@gmail.com> 1568761077 -0700	rebase finished: returning to refs/heads/fix/battery-efficiency
+6797188629c7e4006e0aaa3d7614ce3d5e358f65 65146d1db9a83e1553c167f39e76968994775667 Allen Lawrence <allenlawrence94@gmail.com> 1569433828 -0700	checkout: moving from fix/battery-efficiency to master
+65146d1db9a83e1553c167f39e76968994775667 6797188629c7e4006e0aaa3d7614ce3d5e358f65 Allen Lawrence <allenlawrence94@gmail.com> 1569433844 -0700	checkout: moving from master to fix/battery-efficiency
+6797188629c7e4006e0aaa3d7614ce3d5e358f65 fccc171c9e8f38f2f154b61f9bfe48b1d7ca165f Allen Lawrence <allenlawrence94@gmail.com> 1569436251 -0700	commit: fix(default efficiencies): updated to match IHI's assumptions with borego
+fccc171c9e8f38f2f154b61f9bfe48b1d7ca165f 65146d1db9a83e1553c167f39e76968994775667 Allen Lawrence <allenlawrence94@gmail.com> 1569616708 -0700	checkout: moving from fix/battery-efficiency to master
+65146d1db9a83e1553c167f39e76968994775667 ee07d32de011ea984a911e31ceade5dd7cbbe632 Allen Lawrence <allenlawrence94@gmail.com> 1569616713 -0700	pull: Fast-forward
+ee07d32de011ea984a911e31ceade5dd7cbbe632 ee07d32de011ea984a911e31ceade5dd7cbbe632 Allen Lawrence <allenlawrence94@gmail.com> 1569616792 -0700	checkout: moving from master to fix/battery-hvac
+ee07d32de011ea984a911e31ceade5dd7cbbe632 da4bc43225f6370d4b7bfb4ddd8170dee49cec17 Allen Lawrence <allenlawrence94@gmail.com> 1569616813 -0700	commit: fix(efficiencies): removed hvac losses from battery efficiencies
+da4bc43225f6370d4b7bfb4ddd8170dee49cec17 ee07d32de011ea984a911e31ceade5dd7cbbe632 Allen Lawrence <allenlawrence94@gmail.com> 1572982682 -0800	checkout: moving from fix/battery-hvac to master
+ee07d32de011ea984a911e31ceade5dd7cbbe632 280437001bfaa83a5e81f3b452461d5964566097 Allen Lawrence <allenlawrence94@gmail.com> 1572982684 -0800	pull: Fast-forward
+280437001bfaa83a5e81f3b452461d5964566097 280437001bfaa83a5e81f3b452461d5964566097 Allen Lawrence <allenlawrence94@gmail.com> 1573000774 -0800	checkout: moving from master to feat/sim-from-params
+280437001bfaa83a5e81f3b452461d5964566097 b780603aa335f6b6c9f555b0e5c52b729920e757 Allen Lawrence <allenlawrence94@gmail.com> 1573000792 -0800	commit: feat(): build_sim_from_params
+b780603aa335f6b6c9f555b0e5c52b729920e757 f818e62b353cc8715d59b1bedc608a752d6e01c3 Allen Lawrence <allenlawrence94@gmail.com> 1573065313 -0800	commit: fix(build_sim_from_params): fixed typing in signature)
+f818e62b353cc8715d59b1bedc608a752d6e01c3 6bf16b18aac93fbe237a7850d460945fbc977cfd Allen Lawrence <allenlawrence94@gmail.com> 1573068326 -0800	commit: fix(test): test for battery power in correct units
+6bf16b18aac93fbe237a7850d460945fbc977cfd 7171a7bdb32e604aa92a197fcbc6bc5da1b81ea2 Allen Lawrence <allenlawrence94@gmail.com> 1573074430 -0800	commit: fix(plant_controller): added plant_controller: false to testParams.json
+7171a7bdb32e604aa92a197fcbc6bc5da1b81ea2 7171a7bdb32e604aa92a197fcbc6bc5da1b81ea2 Allen Lawrence <allenlawrence94@gmail.com> 1575417077 -0800	reset: moving to HEAD
+7171a7bdb32e604aa92a197fcbc6bc5da1b81ea2 280437001bfaa83a5e81f3b452461d5964566097 Allen Lawrence <allenlawrence94@gmail.com> 1575417085 -0800	checkout: moving from feat/sim-from-params to master
+280437001bfaa83a5e81f3b452461d5964566097 17be6a0d422cc26a40246c55eb90352fd9c2d6f3 Allen Lawrence <allenlawrence94@gmail.com> 1575417088 -0800	pull: Fast-forward
+17be6a0d422cc26a40246c55eb90352fd9c2d6f3 17be6a0d422cc26a40246c55eb90352fd9c2d6f3 Allen Lawrence <allenlawrence94@gmail.com> 1575417104 -0800	checkout: moving from master to feat/battery_lifetime
+17be6a0d422cc26a40246c55eb90352fd9c2d6f3 6a1aa86e1f362c0b418dd2a91cd40f468b7230a7 Allen Lawrence <allenlawrence94@gmail.com> 1575418060 -0800	commit: feat(): battery_life property, battery_replacement_intervals terminates at battery_life property, _run_battery pads output with zeros to match project lifetime
+6a1aa86e1f362c0b418dd2a91cd40f468b7230a7 79e42d38ede7e779b2f808d8252fb7b3d95c115e Allen Lawrence <allenlawrence94@gmail.com> 1575422551 -0800	commit: fix(year0): year0 now adjusts battery_lifetime as well
+79e42d38ede7e779b2f808d8252fb7b3d95c115e 17be6a0d422cc26a40246c55eb90352fd9c2d6f3 Allen Lawrence <allenlawrence94@gmail.com> 1579046376 -0800	checkout: moving from feat/battery_lifetime to master
+17be6a0d422cc26a40246c55eb90352fd9c2d6f3 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579046380 -0800	pull: Fast-forward
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1579132453 -0800	checkout: moving from master to feat/pypi-upload
+bfa21794c8b7870066daea617cc1247ebfbec1a4 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132476 -0800	checkout: moving from feat/pypi-upload to master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1579132481 -0800	checkout: moving from master to feat/pypi-upload
+bfa21794c8b7870066daea617cc1247ebfbec1a4 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132500 -0800	checkout: moving from feat/pypi-upload to master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1579132518 -0800	checkout: moving from master to feat/pypi-upload
+bfa21794c8b7870066daea617cc1247ebfbec1a4 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132523 -0800	rebase: checkout master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 8c794c412ad128bcaf9b645f7ee38dcf436203b1 Allen Lawrence <allenlawrence94@gmail.com> 1579132523 -0800	rebase: feat(package.sh): package script
+8c794c412ad128bcaf9b645f7ee38dcf436203b1 8c794c412ad128bcaf9b645f7ee38dcf436203b1 Allen Lawrence <allenlawrence94@gmail.com> 1579132523 -0800	rebase finished: returning to refs/heads/feat/pypi-upload
+8c794c412ad128bcaf9b645f7ee38dcf436203b1 49229611c9261a26c8c786c1e56d8112fbb474d7 Allen Lawrence <allenlawrence94@gmail.com> 1579132540 -0800	pull: Merge made by the 'recursive' strategy.
+49229611c9261a26c8c786c1e56d8112fbb474d7 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132558 -0800	checkout: moving from feat/pypi-upload to master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 49229611c9261a26c8c786c1e56d8112fbb474d7 Allen Lawrence <allenlawrence94@gmail.com> 1579132562 -0800	merge feat/pypi-upload: Fast-forward
+49229611c9261a26c8c786c1e56d8112fbb474d7 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132628 -0800	reset: moving to 23aed0d7685621f0e67ef4f996cd6d33899b7d64
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 49229611c9261a26c8c786c1e56d8112fbb474d7 Allen Lawrence <allenlawrence94@gmail.com> 1579132634 -0800	checkout: moving from master to feat/pypi-upload
+49229611c9261a26c8c786c1e56d8112fbb474d7 8c794c412ad128bcaf9b645f7ee38dcf436203b1 Allen Lawrence <allenlawrence94@gmail.com> 1579132684 -0800	reset: moving to 8c794c412ad128bcaf9b645f7ee38dcf436203b1
+8c794c412ad128bcaf9b645f7ee38dcf436203b1 bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1579132720 -0800	reset: moving to origin/feat/pypi-upload
+bfa21794c8b7870066daea617cc1247ebfbec1a4 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132729 -0800	rebase: checkout master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 34b097a58256b69b60248a6e1959a09e14a3765a Allen Lawrence <allenlawrence94@gmail.com> 1579132729 -0800	rebase: feat(package.sh): package script
+34b097a58256b69b60248a6e1959a09e14a3765a 34b097a58256b69b60248a6e1959a09e14a3765a Allen Lawrence <allenlawrence94@gmail.com> 1579132729 -0800	rebase finished: returning to refs/heads/feat/pypi-upload
+34b097a58256b69b60248a6e1959a09e14a3765a bfa21794c8b7870066daea617cc1247ebfbec1a4 Allen Lawrence <allenlawrence94@gmail.com> 1579132749 -0800	reset: moving to origin/feat/pypi-upload
+bfa21794c8b7870066daea617cc1247ebfbec1a4 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132766 -0800	rebase: checkout master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 b8fbf5d4cf3243d88d45d3c63b03009237089913 Allen Lawrence <allenlawrence94@gmail.com> 1579132766 -0800	rebase: feat(package.sh): package script
+b8fbf5d4cf3243d88d45d3c63b03009237089913 b8fbf5d4cf3243d88d45d3c63b03009237089913 Allen Lawrence <allenlawrence94@gmail.com> 1579132766 -0800	rebase finished: returning to refs/heads/feat/pypi-upload
+b8fbf5d4cf3243d88d45d3c63b03009237089913 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132793 -0800	checkout: moving from feat/pypi-upload to master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 b8fbf5d4cf3243d88d45d3c63b03009237089913 Allen Lawrence <allenlawrence94@gmail.com> 1579132817 -0800	merge feat/pypi-upload: Fast-forward
+b8fbf5d4cf3243d88d45d3c63b03009237089913 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132841 -0800	reset: moving to origin/master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 b8fbf5d4cf3243d88d45d3c63b03009237089913 Allen Lawrence <allenlawrence94@gmail.com> 1579132908 -0800	merge feat/pypi-upload: Fast-forward
+b8fbf5d4cf3243d88d45d3c63b03009237089913 23aed0d7685621f0e67ef4f996cd6d33899b7d64 Allen Lawrence <allenlawrence94@gmail.com> 1579132923 -0800	reset: moving to origin/master
+23aed0d7685621f0e67ef4f996cd6d33899b7d64 b8fbf5d4cf3243d88d45d3c63b03009237089913 Allen Lawrence <allenlawrence94@gmail.com> 1579132931 -0800	checkout: moving from master to feat/pypi-upload
+b8fbf5d4cf3243d88d45d3c63b03009237089913 6fe5d5fa8a9c0da9a226ff58c438d733505bb31a Allen Lawrence <allenlawrence94@gmail.com> 1579132949 -0800	pull: Merge made by the 'recursive' strategy.
+6fe5d5fa8a9c0da9a226ff58c438d733505bb31a 6fe5d5fa8a9c0da9a226ff58c438d733505bb31a Allen Lawrence <allenlawrence94@gmail.com> 1579297596 -0800	reset: moving to HEAD
+6fe5d5fa8a9c0da9a226ff58c438d733505bb31a 6fe5d5fa8a9c0da9a226ff58c438d733505bb31a Allen Lawrence <allenlawrence94@gmail.com> 1579297601 -0800	reset: moving to HEAD
+6fe5d5fa8a9c0da9a226ff58c438d733505bb31a 838f4375335ce7f58b3f26bf2d332d62957d7de6 Allen Lawrence <allenlawrence94@gmail.com> 1579301488 -0800	commit: fix(): switched from scp to twine
+838f4375335ce7f58b3f26bf2d332d62957d7de6 0e322646ca2ff2c394fc66da7f7334d3690ef173 Allen Lawrence <allenlawrence94@gmail.com> 1579303647 -0800	commit: fix(): set -e at start of publish.sh

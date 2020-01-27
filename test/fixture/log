@@ -1,0 +1,1523 @@
+commit 0e322646ca2ff2c394fc66da7f7334d3690ef173
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Fri Jan 17 15:27:27 2020 -0800
+
+    fix(): set -e at start of publish.sh
+
+commit 838f4375335ce7f58b3f26bf2d332d62957d7de6
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Fri Jan 17 14:51:28 2020 -0800
+
+    fix(): switched from scp to twine
+
+commit 6fe5d5fa8a9c0da9a226ff58c438d733505bb31a
+Merge: b8fbf5d bfa2179
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Jan 15 16:02:29 2020 -0800
+
+    Merge branch 'feat/pypi-upload' of https://bitbucket.org/cypresscreekrenewables/energy-model into feat/pypi-upload
+
+commit b8fbf5d4cf3243d88d45d3c63b03009237089913
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Fri Jun 28 15:41:56 2019 -0700
+
+    feat(package.sh): package script
+
+commit 23aed0d7685621f0e67ef4f996cd6d33899b7d64
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Jan 14 18:23:09 2020 +0000
+
+    [skip ci] Bump library version
+
+commit 7f255d818f05156d25d6773d1716545b175f4ce3
+Merge: c44bdca ae871ad
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jan 14 00:56:39 2020 +0000
+
+    Merged in fix/warning_messages_in_sim (pull request #53)
+    
+    Fix/warning messages in sim
+
+commit c44bdca79fb0b333a1f2c1f62a34f2bb3e0eba61
+Merge: d4073ad 79a1f00
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jan 14 00:31:08 2020 +0000
+
+    Merged in fix/inverter_dict (pull request #52)
+    
+    Fix/inverter dict
+
+commit ae871ad8ea9f68d7dd1b5e4d97600267e2d3327a
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Jan 13 16:13:37 2020 -0800
+
+    fix(horizon_shading): turn off SettingWithCopyWarning
+
+commit 68174297c58675164c9cdb52a3fd5f0613d7767c
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Jan 13 16:01:28 2020 -0800
+
+    fix(horizon_shading): turn off SettingWithCopyWarning
+
+commit 9547e58255ad108e00b6f7e9a99dc05b7a96e80d
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Jan 13 15:53:05 2020 -0800
+
+    fix(horizon_shading): turn off IntegrationWarning
+
+commit 710dbdb321a5c22c8c56b74b206e2b04e651b61a
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Jan 13 15:45:41 2020 -0800
+
+    fix(horizon_shading): turn off IntegrationWarning
+
+commit 79a1f0046bf462179b3f5fc30e1a99e0e789be69
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Jan 13 14:58:46 2020 -0800
+
+    fix(ond_conversion): set clipping points to kw
+
+commit 71ed3c5b49644a068bea26691ab08276c8acc2d2
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Jan 13 14:40:01 2020 -0800
+
+    fix(ond_conversion): change label to clip35C_kW from pclip... modify tests
+
+commit d4073ad65cee92efbdac2a8d0373a35fdc48755f
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Sat Jan 11 01:04:32 2020 +0000
+
+    [skip ci] Bump library version
+
+commit 340c6e505e0e0818a0464b2828ce971925b4f81e
+Merge: 341fa48 0740670
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Sat Jan 11 00:23:21 2020 +0000
+
+    Merged in feat/ond_inv_converter (pull request #49)
+    
+    Feat/ond inv converter
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 0740670ab578f71068ac7a8d64f106e413411709
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Sat Jan 11 00:23:09 2020 +0000
+
+    made except statement more explicit
+
+commit 341fa48d2c295632ee70100f2a508ea1fd0bb7df
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Mon Dec 23 21:44:25 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 8c69b0d8e98794b9e8fe497e2213273fbe36f406
+Merge: 5e2c2c1 43db898
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Mon Dec 23 20:59:47 2019 +0000
+
+    Merged in fix/battery_variants (pull request #51)
+    
+    fix(variants_printing): expand color ramp to cover all variants
+
+commit 43db898d4feb0dd37f0b7c0721d3963a9f6c42b6
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Thu Dec 19 16:40:09 2019 -0800
+
+    fix(variants_printing): expand color ramp to cover all variants
+
+commit 5e2c2c14bedd17f31f3832520b3adbc7b8e9d173
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu Dec 19 22:08:34 2019 +0000
+
+    [skip ci] Bump library version
+
+commit be17053900d33e059c113ad00ac3b1c2a03bf50b
+Merge: 17be6a0 4302e6f
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Thu Dec 19 21:22:42 2019 +0000
+
+    Merged in fix/battery_variants (pull request #50)
+    
+    fix(daydream_webservice): fix battery variants issue where price signal was not being cut down to 8760
+
+commit 4302e6f9a04006043770e77ac9107c2c78d6c49e
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Thu Dec 19 12:31:06 2019 -0800
+
+    fix(daydream_webservice): fix battery variants issue where price signal was not being cut down to 8760
+
+commit 63dfffed1fa508614d932a8c76adf5d3c41c67e3
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Thu Dec 19 10:31:49 2019 -0800
+
+    (fix): modify setup.py so fixtures are installed
+
+commit a98ef82807cf061de61043318a280fe78cd29cbb
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Wed Dec 18 16:09:18 2019 -0800
+
+    feat(ond_conversion): add functions and tests to convert ond files to
+    inverter dictionaries
+
+commit 102e83a8f5400ee52c7d7fdb9a00419693d26cdb
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Thu Dec 12 18:24:56 2019 -0800
+
+    feat(inverter): add functions to read ond files
+
+commit 17be6a0d422cc26a40246c55eb90352fd9c2d6f3
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Sun Dec 1 02:12:52 2019 +0000
+
+    [skip ci] Bump library version
+
+commit fe39322c63f90bbf010abf998c2f6bcc0f2e503a
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Sun Dec 1 01:30:25 2019 +0000
+
+    Merged in fix/clear_row_spacing_daydream (pull request #48)
+    
+    fix(pvsam_array): Correct units of clear_row_spacing item in sim_data dict property
+    
+    Previously clear row spacing was being stored in feet while table height and pitch were both being stored in meters. Consumers of the sim_data dict values (such as modeling-event-adapter via TMYSolarSim > TMYRecord > daydream_webservice.record_refiner > daydream_webservice.update_energy_production_estimate) expect all linear distances to be in the same units. Now all of them are in meters.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 556d32c4f7cdda3b3882b40f89008fae7c735e4e
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Nov 20 00:05:12 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 05db9e9b09854197b31ec0b2164db41ebbaac063
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Nov 19 23:26:37 2019 +0000
+
+    Merged in feat/8760_variants (pull request #47)
+    
+    Feat/8760 variants
+    
+    * feat(daydream): add variants
+    
+    * feat(add_var): write unit-tests for helper functions
+    
+    * feat(add_var): write unit-tests for helper functions
+    
+    * feat(variants): add tests
+    
+    * feat(print_8760): fiddle with printing of variants
+    
+    * feat(print_8760): fiddle with printing of variants
+    
+    * feat(print_8760): fiddle with printing of variants
+    
+    * feat(print_8760): fiddle with printing of variants
+    
+    * feat(8760_printing): change column widths and table format
+    
+    * feat(8760_printing): change column widths and table format
+    
+    * feat(8760_printing): add in color ramps
+    
+    * feat(8760_printing): add in color ramps
+    
+    * feat(variants): fixed typo to get tests to pass
+    
+    * fix(variants_test): fix bug in test
+    
+    * fix(variant_eighty760_test): fix test for columns in variants tab of 8760
+    
+    * fix(stream_processor): change processor config so that it wouldn't time out after 2 minutes, allowing longer variant runs to pass.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 170cc8ac9e3b276f590a29449ba6361d28bf7887
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri Nov 8 01:04:12 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 429b60adfc0eae59492cf2a5239adad44414f286
+Merge: 2804370 7171a7b
+Author: Allen Lawrence <allen.lawrence@ccrenew.com>
+Date:   Thu Nov 7 16:28:19 2019 -0800
+
+    Merged feat/sim-from-params into master
+
+commit 7171a7bdb32e604aa92a197fcbc6bc5da1b81ea2
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Nov 6 13:07:10 2019 -0800
+
+    fix(plant_controller): added plant_controller: false to testParams.json
+
+commit 6bf16b18aac93fbe237a7850d460945fbc977cfd
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Nov 6 11:25:26 2019 -0800
+
+    fix(test): test for battery power in correct units
+
+commit f818e62b353cc8715d59b1bedc608a752d6e01c3
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Nov 6 10:35:13 2019 -0800
+
+    fix(build_sim_from_params): fixed typing in signature)
+
+commit b780603aa335f6b6c9f555b0e5c52b729920e757
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Tue Nov 5 16:39:52 2019 -0800
+
+    feat(): build_sim_from_params
+
+commit 280437001bfaa83a5e81f3b452461d5964566097
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Oct 22 18:57:59 2019 +0000
+
+    [skip ci] Bump library version
+
+commit fd548ed7e4f71b37134a776b5e4a9d4cff070086
+Merge: 707de11 4524ff1
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Oct 22 18:19:49 2019 +0000
+
+    Merged in feat/add_battery_8760 (pull request #45)
+    
+    Feat/add battery 8760
+
+commit 4524ff1b1c0b910f21ae8576af9acc7c10b20fbf
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Oct 22 10:36:53 2019 -0700
+
+    fix(): fix typo in boolean assignment
+
+commit 7b3799561f8efedf74b8c950602655952d2458a5
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Oct 22 10:24:57 2019 -0700
+
+    fix(): add test for battery 8760, fix boolean assignment in update_energy_production_estimate
+
+commit b0d62b8a191dd4f93657ffd9fd0d27f5880f166d
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 16:37:09 2019 -0700
+
+    fix(add_8760): fix silly dictionary error
+
+commit e1f94c631c9efb08b8686649e005c891125cbea5
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 15:48:44 2019 -0700
+
+    fix(add_8760): fix tests in daydream_webservice
+
+commit 780f9fcd30be7111513744649fa5ff1ad7b12d63
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 13:57:55 2019 -0700
+
+    fix(add_8760): fix bolding and row widths of battery cols
+
+commit bca5824766e750194df514826763beaa5f4c4a7f
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 13:31:05 2019 -0700
+
+    fix(add_8760): fix bug in battery code with spacing
+
+commit 1769128d61d5617c7be6bf0e3c538d41c1783217
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 13:12:31 2019 -0700
+
+    fix(add_8760): fix bug in battery code with spacing
+
+commit 8502f09d308b8b70866cb7875a8cb1746a0d32df
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 12:40:29 2019 -0700
+
+    fix(add_8760): fix bug in battery code with dsoc
+
+commit 61544ba812d4fd76061ed9de0dd589d2c58cc944
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 12:26:19 2019 -0700
+
+    fix(add_8760): fix bug in battery code with columns
+
+commit f603b42da77cd6e1fd22d6dd0b96a41c416216c5
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 11:23:47 2019 -0700
+
+    fix(add_8760): fix bug in battery code with cycles
+
+commit 6fbc7f8c707b11a5194d855615b22fd9ed73b501
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 10:50:24 2019 -0700
+
+    fix(add_8760): fix bug in battery code with cycles
+
+commit d147f8b5c4088f351f91e33d55352159e646b639
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Oct 18 10:34:57 2019 -0700
+
+    fix(add_8760): fix bug in battery code
+
+commit 147124712effaa73611ae3297957e626c16aabe2
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Thu Oct 17 15:37:51 2019 -0700
+
+    feat(add_8760_sheets): add additional columns to storage 8760's
+    
+    - added 9 columns (charge, discharge, soc, delta soc, soc %, charge eff,
+    discharge eff, lifetime throughput, number of cycles)
+
+commit 707de11579c1040dfd86caa9b17c38dfda74e724
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu Oct 17 05:03:46 2019 +0000
+
+    [skip ci] Bump library version
+
+commit ef9a3d01a1b982b783a6509846ab1c4e0f26b7c1
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Oct 17 04:26:46 2019 +0000
+
+    Merged in fix/e2e_test_weather2 (pull request #44)
+    
+    fix(e2e): Remove need to hit SolarAnywhere from e2e test
+    
+    Currently e2e test is failing because it uses an empty database, which triggers a call to solar anywhere by get_tmy. The problem is that we let our SA license expire. This commit solves the problem by prepopulating the table with weather data so the call to SA is not required. This is preferable over other explored alternatives because it keeps the minimal dependence on outside systems that we had previously.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 24a9b5a55aa21ce7794199799f1d5b14bb07bc1e
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Oct 15 21:02:36 2019 +0000
+
+    [skip ci] Bump library version
+
+commit f8cef009399d510efb854349c2742b82524aaf48
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Oct 15 20:09:35 2019 +0000
+
+    Merged in fix/firstsolarbehavior (pull request #43)
+    
+    fix(pv_module): Correct solid state params for FSLR S4 120 and remove FSLR S4 117 from normal queries
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 82dc3dbaa54af81a23e8d2230ec5b8b35b359a7c
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Mon Oct 7 23:52:01 2019 +0000
+
+    [skip ci] Bump library version
+
+commit ee07d32de011ea984a911e31ceade5dd7cbbe632
+Merge: 65146d1 fccc171
+Author: Allen Lawrence <allen.lawrence@ccrenew.com>
+Date:   Wed Sep 25 19:14:10 2019 +0000
+
+    Merged in fix/battery-efficiency (pull request #42)
+    
+    Fix/battery efficiency
+    
+    Approved-by: Allen Lawrence <allen.lawrence@ccrenew.com>
+
+commit fccc171c9e8f38f2f154b61f9bfe48b1d7ca165f
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Sep 25 11:30:51 2019 -0700
+
+    fix(default efficiencies): updated to match IHI's assumptions with borego
+
+commit 6797188629c7e4006e0aaa3d7614ce3d5e358f65
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Thu Sep 12 10:57:20 2019 -0700
+
+    feat(capacity): capacity property calculates max SOC
+
+commit 90643eada5ceb3eca0251d3e66a259c3502a1cce
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Sep 11 17:02:40 2019 -0700
+
+    fix(battery energy): internal energy capacity is function of discharge_eff
+
+commit 1bb7e88fcb66628778b8fc9a9c9b391ddec45d63
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Wed Sep 11 12:27:07 2019 -0700
+
+    fix(default efficiencies): default charge_eff and discharge_eff in BatteryMixin now set to 0.917
+
+commit 65146d1db9a83e1553c167f39e76968994775667
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Sep 17 22:06:56 2019 +0000
+
+    [skip ci] Bump library version
+
+commit e4cb69dcba999d655d5bdb787e1cf8cbd32e87e9
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Sep 17 21:33:39 2019 +0000
+
+    Merged in fix/rearsidemismatchallsignalsfalse (pull request #41)
+    
+    Fix/rearsidemismatchallsignalsfalse
+    
+    * fix(pv_array): Correct issue where dc production was being calculated differently depending on the value of all_signals
+    
+    * dev(inverter): Add ability to pass in inverter_specs dict and override name call to inverter database
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit b8ecd3cc60d921fe032e0a7472e5e3e2f3245d15
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri Sep 13 22:25:23 2019 +0000
+
+    Merged in Casey-Zak/secretsyaml-edited-online-with-bitbucket-1568413462855 (pull request #40)
+    
+    fix(helm): Add HW_DATA_SCHEMA to helm secrets template
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit daf5ad28b601165853f48c2774872410354d4ae0
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri Sep 13 22:08:37 2019 +0000
+
+    [skip ci] Bump library version
+
+commit c8d5952d6822f316bdb3f8e8e65ad49a5f02cbfa
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri Sep 13 21:55:03 2019 +0000
+
+    Merged in Casey-Zak/daydream_webservicepy-edited-online-with-1568411656015 (pull request #39)
+    
+    feat(daydream_webservice): Turn on site-specific albedo
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 584aa15bc2efa8a167caf390fc51806ab2bbde7a
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri Sep 13 21:37:33 2019 +0000
+
+    [skip ci] Bump library version
+
+commit fc2f6b103b65417c8eae8c942dbdfcc1e580b4bd
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri Sep 13 21:28:08 2019 +0000
+
+    Merged in fix/randomfixes (pull request #38)
+    
+    Fix/randomfixes
+    
+    * fix(pvsam_array): Correct bifacial ground heights
+    
+    * fix(soiling): Correct docstring in get_soiling
+    
+    * fix(daydream_webservice): Resolve issue #24
+    
+    * dev(pv_array): Undo mistake from prev commit
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit cea7ffefddc55421c0e820817c4dad74c66ad8e2
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri Sep 13 00:46:28 2019 +0000
+
+    Merged in fix/bintolbifacial (pull request #37)
+    
+    fix(pv_module): Correct positive binning tolerance for bifacial modules
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit f59ad2c33779a44114a852d54a43f98f405199dc
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Sep 11 21:00:33 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 249e47720915b7d5aa0b3429bf53fea6689b9f09
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed Sep 11 20:49:48 2019 +0000
+
+    Merged in fix/no_nans_in_output (pull request #36)
+    
+    fix(daydream_webservice): Modify record_refiner() to not return nan's in monthly rollups and force no nans in output of update_production_estimate
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 2e786d34bd4596027b7b3296a84c468ae0fb248d
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Sep 11 17:53:24 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 7b08b593538dbf63691165fbdc98fa216e3aae27
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed Sep 11 17:42:36 2019 +0000
+
+    Merged in fix/no_site_albedo (pull request #35)
+    
+    Fix/no site albedo
+    
+    * fix(daydream_webservice): Due to larger system issues, turn off site specific albedo for bifacial runs
+    
+    * chore(pipelines): Fix 'push' pipeline and add additional to one-off increment library version
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 3ee6a24085c96640c88a8f96d47ce680750e24c5
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Sep 11 04:39:12 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 8f3c42d5b5224b42fbb2c6146acdc2b724515a42
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed Sep 11 03:19:31 2019 +0000
+
+    Merged in feat/add_pvsamarray (pull request #34)
+    
+    Feat/add pvsamarray
+    
+    * feat(array_sizing): Add get_standard_tilt function to array_sizing package
+    
+        also cleaned up a doc string in sizing_helpers
+    
+    * dev(models): Move models/array.py into its own package in anticipation of adding SAMlib to package
+    
+        Note package is named pv_array toavoid confusion with coding-specific arrays
+    
+    * dev(models): Move models/inverter.py into its own package with necessary data files to remove dependency on solarproject
+    
+    * dev(pv_module): Add 'stc_capacity' as item in module dictionary output
+    
+        Even though an input to the get_module_properties() function is module stc_capacity and it seems bad form to give an input as an output, this already happens implicitly with module technology, and it is necessary for the module dictionaryto be useful by later functions (those functions don't *necessarily* know how the module dict was created).
+    
+    * dev(SAMlib): Move contents of solarproject/SAMlib to  separate repo (pyssc)
+    
+        This further reduces dependency of other libraries on  solarproject as well as reducing the repo size
+    
+    * dev(array_sizing): Remove solaproject dependence from array_sizing package
+    
+    * feat(spectral): Update get_spectral function to be able to get correction based on Dew Point or Precipitable Water in addition to Relative Humidity
+    
+        Originally I had figured we would just hold fast to requiring things be put in terms or relative humidity. Then, a user with Dew Point would just need to convert that and then use the function normally. But then it occurred to me that if the user already had precipitable water (this has happened to Jeff) then there would be no way for them to use any of the tools in the module. So, made the necessary changes so that get_spectral now has a kwarg 'pwat_from' that can be used to indicate which signal should be used to calculate the correction.
+    
+    * dev(soiling): Update get_soiling function so that it cleanly returns 12 monthly soiling values
+    
+        Also added a minimum soiling kwarg
+    
+    * fix(setup.py): Update setup.py to reflect earlier commits
+    
+    * fix(pv_module): Correct input validation so that it won't error when module stc capacity is type numpy.integer
+    
+    * feat(pv_module): Add bifacial module entry to module db and add bifaciality_factor column
+    
+    * fix(sscplus.py): Update so that sscplus won't fail when using new pyssc version that includes bifacial for mlm and iec61853 module models
+    
+    * feat(pv_array): Add PVSamArray class with bifacial modeling capabilities
+    
+        The PVSamArray class is now what is instantiated when the load_array method of BaseSolarSim is called. It removes the dependency on the solarproject package and exposes the underlying ssc simulation object so that all aspects of the model can be controlled. This new class also uses the latest version of the pyssc package and allows modeling of bifacial systems. There was also a fair amount of reorganization in the pv_array package.
+    
+    * dev(array_sizing): Change some confusing references from module_technology to module_type and set default for get_strings_in_parallel to full_rows=False
+    
+    * feat(pv_module): Change get_module_properties to have manufacturer="generic" as the default
+    
+        Increasingly, I noticed that I was having to write the same code snippet everywhere because I wanted to pull the generic module when available. I realized the cleanest way to handle this is to have the manufacturer argument default to generic (when available). Regrettably, the placement of the manufacturer argument at the front meant that the function signature was changed and that I had to update/clean up all references to the function in the code base.
+    
+    * dev(pvsam_array): Update default value of bifacial_model kwarg to be 'view_factor' instead of None and check for bifaciality_factor !=0
+    
+    * feat(sizing_helpers): Add function max_dc_capacity for calculating max dc_capacity that can be acheived for given module specs and available area
+    
+    * feat(daydream_webservice): Update service to reflect all the changes from previous commits and remove dependency on solarproject
+    
+    * test(test_daydream_webservice): Remove reliance on solarproject
+    
+    * dev(daydream_webservice): Comment out references to get_standard_albedoes for now
+    
+    * fix(test_daydream_webservice): Fix bug introduced in earlier commit
+    
+    * add to previous
+    
+    * fix(): Fix bugs related to earlier commits
+    
+    * test(daydream_webservice): Added integration test for bifacial scenario
+    
+    * fix(e2e): Change racking in input to e2e test
+    
+    * fix(daydream_webservice): Correct error in assignment between pis date and po date
+    
+    * add to previous
+    
+    * add to previous
+    
+    * test(): ignore all solarproject tests in test pipeline
+    
+    * chore(daydream_webservice): Uncomment code that uses get_standard_albedoes function from ccrmod_weather
+    
+    * dev(pvsam_array): Update default values for various bifacial parameters
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 4b5f2c566de0e7897b45bbd443709b8eb855aebb
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri Sep 6 23:36:11 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 04a36ebf18cec19a21fd4fba53fdd308fbd853e3
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri Sep 6 23:02:52 2019 +0000
+
+    Merged in fix/modtech_in_e2e (pull request #33)
+    
+    fix(e2e_test): Updated module tech type from Poly to Mono-Si so that it doesn't throw an error when querying forward curve service
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 9c61157a9d8f1bc796c5f287e79ddcdc52cbcf5d
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Sep 6 21:37:11 2019 +0000
+
+    Merged in feat/forward_curve_mapping (pull request #31)
+    
+    fix(modtech mapping): implement map so that new thera labels can be given to pv_module
+    
+    * fix(modtech mapping): implement map so that new thera labels can be given to pv_module
+    
+    * fix(hrz_shading): add ME to RRP
+    
+    * fix(hrz_shd_test): fix test in which ME was used
+    
+    * fix(horizon_shading): add missing states
+    
+    * fix(daydream_webservice): Update module technology string mappings
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 57391fe104958bbb11a76fc9f3eb91d58674d3a7
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri Aug 2 23:43:27 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 008757d714482f20eb11389963b92e1797d3bd16
+Merge: bf45984 3a1c33f
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Aug 2 23:08:18 2019 +0000
+
+    Merged in add/standalone_soiling (pull request #29)
+    
+    Add/standalone soiling
+
+commit 3a1c33f4aa612a14a4f20b5f4a076dc9a4226169
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Aug 2 15:05:46 2019 -0700
+
+    fix(standalone_soiling): tweak structure of get_pvsyst_soiling
+
+commit bf4598402bd14b0d2cf03733d0dd7951b8fa0109
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Aug 1 22:50:06 2019 +0000
+
+    Merged in feat/pvsyst_array (pull request #30)
+    
+    Feat/pvsyst array
+    
+    * dev(models/losses): Change names of signals associated with the ac tree shading and ac horizon loss sub models
+    
+        Previously, the only way to model these losses in the TMYSolarSim ecosystem was with these ac-side submodels, so the signals associated with them were general, i.e. post_far_external_shading and post_near_external_shading. With the feature add of a PVsystArray array model (in progress), these losses can now be modeled on the DC side, requiring a differentiation between the output of the "real" dc side sub-model and these ac-side haircuts. They will now be called post_ac_tree_shading and post_horizon_shading.
+    
+    * fix(solarproject): Resolve Issue #23 by applying ac tree shading and horizon loss haircuts to non-standby hours only
+    
+    * dev(energy_model_reports/eighthy760): Update loss_chart_8760 to properly handle new shading signals
+    
+        Related to an earlier commit, addition of PVsystArray requires differentiating between dc (i.e. real) and ac treatments of tree and horizon shading. PVsyst also doesn't separate tree and self shading, so need to be able to handle a new signal, post_near_shading. Also fixed a conditional pattern that didn't have full coverage of all scenarios. Also fixed reference in daydream webservice realted to earlier commit
+    
+        addendum to previous commit
+    
+    * feat(models/array): Added PVsystArray class
+    
+        Reorganized the array module so that there are now 4 usable classes, single- and multi-year SolarProjectArray classes and single- and mulit-year PVsystArray classes. Added a load_pvsyst_array function to array.py and a load_pvsyst_array method to BaseSolarSim. This latter was necessary because the signature of the load_pvsyst_array method needs to be so different compared to load_array
+    
+    * test(): Update tests to reflect addition of PVsystArray class
+    
+        Also did some reorganization to move some redundant fixtures solely into the test/fixtures package and made some additional small fixes
+    
+    * dev(models/losses): Refactor to remove SolarProject dependency and fix in-place behavior of the loss steps that slice numpy arrays
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 79c15fc35a44a411c0113643301b9a0dae62a923
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Jul 31 23:37:57 2019 +0000
+
+    [skip ci] Bump library version
+
+commit ae2d46589b17942973c2f53af1a04fd79d7f4867
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Wed Jul 31 23:02:24 2019 +0000
+
+    Merged in add/array_sizing_helpers (pull request #28)
+    
+    Add/array sizing helpers
+    
+    * feat(): add helpers for array-sizing functions
+    
+        Added these functions in sizing_helpers.py to make doing array sizing in
+        ccrmod easier.
+    
+    * test(sizing_helpers): add tests for sizing_helpers.py
+    
+    * test(sizing_helpers): add more tests for sizing helpers
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 08ec0ca20f9279461a418274cec2dc8af7d619b7
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jul 30 13:31:54 2019 -0700
+
+    fix(soiling): modify path to make fixtures work
+
+commit e2b0773915a14328a9d991d360cd57b3ae58206e
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jul 30 13:19:32 2019 -0700
+
+    fix(soiling): change code to read fixtures correctly
+
+commit ff95ee069349edb99e1b1ec153faad979ce6a073
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jul 30 12:17:40 2019 -0700
+
+    test(spectral(): add tests for spectral package
+
+commit b486768be5c20e076a0125572433a487e6d85106
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Jul 26 15:28:31 2019 -0700
+
+    test(soiling): add tests and fixtures for soiling model tests
+
+commit 1b3c87e85511908fc80805f48bc3e72319a429c9
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Fri Jul 26 11:35:58 2019 -0700
+
+    feat(soiling/soiling): add standalone soiling functions and break out
+    spectral and module modules from solarproject
+    
+    - I broke out the soiling, spectral and module modules from
+    solarproject. Module is now called pv_module
+
+commit ce3f862d4d2d1cef80ec4dd859fea0e8319d1f39
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jul 23 10:09:54 2019 -0700
+
+    feat(soiling): add standalone soiling model
+
+commit 0eea918484a684c586098ecdb09c959d96b1e913
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu Jul 4 00:39:59 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 3219f91ed479d2a4ee67f221391e98594e5d963f
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Jul 4 00:05:23 2019 +0000
+
+    Merged in Casey-Zak/rate_calc_helperspy-edited-online-with-b-1562198675513 (pull request #27)
+    
+    fix(daydream_webservice): Typo in rate_calc_helpers.py
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit bfa21794c8b7870066daea617cc1247ebfbec1a4
+Author: Allen Lawrence <allenlawrence94@gmail.com>
+Date:   Fri Jun 28 15:41:56 2019 -0700
+
+    feat(package.sh): package script
+
+commit da0ba9ab2a354d00546584cd2b96f18b24d79e9c
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Jun 26 23:55:21 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 8fabbc8b50098288035a3dce9ae7ec3db6a9003a
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed Jun 26 23:15:52 2019 +0000
+
+    Merged in fix/handle_shortened_rates (pull request #26)
+    
+    fix(daydream_webservice): Update main function so that battery price signal is built correctly even when rate series is not for full structure term
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit aa471ffc24c4589b57d4dce62a6341b4e1403c68
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Jun 25 01:21:13 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 44cc91d57cb1c21febf0ca801ecc9cfd81f4475d
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Jun 25 00:48:10 2019 +0000
+
+    Merged in feat/add_batteries_to_daydream_webservice (pull request #25)
+    
+    Feat/add batteries to daydream webservice
+    
+    * feat(daydream_webservice): Modify service to also do battery simulations
+    
+    * test(daydream_webservice): Fix errors and add tests for battery scenario
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 4bfd4c120943a81fbf52c31dbcd36eb65984811d
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu Jun 20 18:56:48 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 84b24736aac48efd3864b99547b7aed8214e107e
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Jun 20 18:29:44 2019 +0000
+
+    Merged in test/update_e2e_inputs (pull request #24)
+    
+    test(e2e): Remove ac_horizon_shading_loss from e2e test inputs to better represent current message queue behavior
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 4d16bffaae8c800f756bbd3d1c46a7d6fd6e9644
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu Jun 20 01:08:13 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 06bdbd653c7fae413875a924bb2a23945dd21317
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Jun 20 00:41:25 2019 +0000
+
+    Merged in fix/google_tz_issue (pull request #23)
+    
+    Fix/google tz issue
+    
+    * fix(daydream_webservice): Remove try except around major simulation steps to improve error messaging in final app
+    
+    * fix(daydream_webservice): Fix typo in rate_calc_helpers.get_time_zone and added associated test
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit faddd165c219c6afceba06a74e4fb440064d8e52
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Jun 19 21:08:45 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 0a2ffc6a0db197e3b723cf9ebf99c1dd3bd702d2
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed Jun 19 20:42:51 2019 +0000
+
+    Merged in Casey-Zak/fixdaydream_webservice-remove-ac_tree_sh-1560976938909 (pull request #22)
+    
+    fix(daydream_webservice): Remove ac_tree_shading_loss from list of required inputs
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 1c658de4acfc63df9934bf2bc85f85c689c2982b
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Wed Jun 19 17:55:49 2019 +0000
+
+    Merged in fix/get_hor_call (pull request #20)
+    
+    Fix/get hor call
+    
+    Modified import statements in horizon_shading.py
+    
+    Changed logic in get_hrz_loss to import get_hor instead of in top import
+    statements
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit c3f06480ecdd474884ff57fd7e9c3cb45badaf9a
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Wed Jun 19 17:46:18 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 7a55aae4a506e1cd72842d623dbe8aa08122324b
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Wed Jun 19 16:52:09 2019 +0000
+
+    Merged in add_rate_calc (pull request #19)
+    
+    Add rate calc
+    
+    * feat(daydream_webservice): add rate calculation
+    
+        Modified update_energy_model_production_estimate() to do rate
+        calculation.
+    
+        Modified TMYRecord to output annual and monthly blended rates.
+    
+        Wrote test for non-automated rate situations.
+    
+    * test(daydream_webservice): add tests for the rate calculation feature
+    
+    * chore(): add environmental variables to docker compose and secrets.yaml
+    
+    * chore(): changed forward_curve reference to pass push tests
+    
+    * chore(): tweak test for record refiner to pass.
+    
+    * fix(e2e_test): fix test to include a rate structure label in project info
+    
+    * fix(e2e_test): modify end-to-end test to circumvent firewall issue
+    
+    * feat(daydream_webservice): Update service to make use of new TMYRecord support of rate series data
+    
+    Approved-by: Joseph Hack <joseph.hack@ccrenew.com>
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 410ae5c922464e4e1ec9a470b51317a22b95d6f7
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Jun 18 23:31:12 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 0ec6c1ac94700ed19d28edb52199d136b4131544
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Jun 18 23:06:16 2019 +0000
+
+    Merged in feat/add_rate_to_TMYRecord (pull request #21)
+    
+    feat(energy_model_reports): Update reporting flow to account for rates
+    
+    First, signature of TMYRecord.from_model() has changed. The keyword args are now separate and more explicit. I don't view this as a breaking change because no one uses the keyword args currently AFAIK. Price signals for year zero and the PPA term can now be passed into this method to populate the year_zero_rate_series and annual_blended_rate_series attributes of the created TMYRecord object. The rollups generated by the functions in basic_rollups now include rate data where applicable.
+    
+    The rate data is also displayed in the excel doc generated with add_8760_sheets(). Other small formatting fixes/changes were also made to the excel report, chiefly the replacement of the "annual_production_DST" column with a local timestamp column that can be used to interpret the production signal as well as the rate signal.
+    
+    Resolved Issue #18
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit bab7a499368020d514f54ed7d3cbe02730b219d0
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Mon Jun 17 21:49:50 2019 +0000
+
+    [skip ci] Bump library version
+
+commit a1090080f90905ef25f650c4a0513a9979d2033a
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Mon Jun 17 20:49:33 2019 +0000
+
+    Merged in fixsolarproject-change-call-to-reverse-geocoder-to-be-single-threaded (pull request #18)
+    
+    fix(solarproject): Change call to reverse_geocoder package to be single threaded
+    
+    Addresses Issue #19. Problem was that reverse_geocoder's default mode was multi-threaded (i.e. pool processing). As such a call to solarproject.loadweatherandlocation couldn't be made inside any other pool process. Changed the mode to single threaded, according to package docs there should be zero impact to performance
+    
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+    Approved-by: Joseph Hack <joseph.hack@ccrenew.com>
+
+commit 712a1b0c90013181d00200e88b967c0299faf0c6
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed Jun 12 22:30:34 2019 +0000
+
+    Merged in fix/forward_curve_service_import_in_module_module (pull request #17)
+    
+    Update forward_curves import in solaproject.module and other stuff
+    
+    * fix(solarproject): Move import statement for forwardcurves into functions that use it
+    
+        Currently, importing solarproject.module (which happens any time solarproject is imported) forces an import of forwardcurves. Installation of this package shouldn't be required to run solarproject (and by extension the parts of energy-model that build on solarproject). Eventually we will move away from this web interaction in solarproject.module, but for now the workaround is to only attempt to import the package if a function is called the requires it.
+    
+    * fix(): Update mock references in tests that use forward_curves
+    
+        Since I moved the forward_cruves import statement into the actual function calls, any test that mocked 'solarproject.module.forward_curves' failed. Corrected by mocking the forward_curves package more generally
+    
+    * fix(): Add env vars and references related to hor_database
+    
+        Updated docker-compose and docker-compose-dev so that they can call HeyWhatsThat if they need to, also updated the helm secrets file so that the env vars required to access hor_database will actually be present in kubernetes
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 2529b5af6f8f182d1bb7e41896480aae493be54e
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue Jun 4 19:01:37 2019 +0000
+
+    [skip ci] Bump library version
+
+commit bd0489715f87396843e29966a395ed298fa08cf6
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Tue Jun 4 18:31:16 2019 +0000
+
+    Merged in add_horizon_functions (pull request #16)
+    
+    Merge in horizon shading functionality to the daydream webservice
+    
+    * chore(): Add horizon_shading.py and tests
+    
+        Added horizon_shading.py and a package for its tests to the branch.
+    
+    * develop(): wrote more tests, added pvsyst output files, finished
+        horizon_shading functions
+    
+    * develop(): finished unit tests for package, added fixtures
+    
+    * chore() deleted .pyc files.
+    
+    * chore(): delete bad path to CO-004004.hor
+    
+    * chore(): Move CO-004004.hor around to get build to work.
+    
+    * chore(): make change again to get hor file.
+    
+    * chore(): Modify setup.py to copy over horizon_shading folder structure.
+    
+    * chore(): Modify path to rrp's.
+    
+    * chore(): fix paths in setup.py
+    
+    * chore(): Modify tests to make an assertion work.
+    
+    * test(): add integration tests for horizon losses in webservice
+    
+        - added two integration tests to ensure that horizon losses are being
+        calculated and fed in correctly to the webservice.
+    
+        - modified docker-compose files to include environmental variables for
+        hor_database.
+    
+        - modified compose_startup.py to create the mock hor_database table.
+    
+    * chore(): lock in scipy==1.2.1 to avoid bug introduced by 1.3.0
+    
+    * chore(): modify daydream integration tests to make compatible with forward-curve update
+    
+    * chore(): fix horizon_functions to allow e2e test to pass.
+
+commit a42f5a73322a77fb3ac588ce78f4e368e4027ae6
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu May 16 22:10:14 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 06da29bb7a5691393f8b22a62e4efd0c8e0d220f
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu May 16 21:11:11 2019 +0000
+
+    Merged in feat/update_structure_of_TMYRecord (pull request #13)
+    
+    Feat/update structure of TMYRecord
+    
+    * chore(): Add test/pytest.ini so that Deprecation and PendingDeprecation Warnings are ignored in all testing environments
+    
+    * fix(energy_model_reports): Change functions in model_record_managers so that they don't call the run() methods of the sim objects they are given
+    
+        The original idea was that if the generate_record_inputs() function called the run methods, it would ensure that the _sim_data dictionary would correspond to whatever dataframes were produced. However, that requirement of fidelity reduces flexibility when a user might want to "hack" the inputs, particularly the data going into the dataframes. Instead, now the user can opt to have the function call those methods or they can provide the required data. That also allows us to set up the tests of the package in a more streamlined way.
+    
+    * chore(energy_model_reports): Change sim_record and test_sim_record to reduce test time and testing environment requirements
+    
+    * chore(solarproject): Change names of a few deprecated classes thatt began with 'Test' so that pytest doesn't try to collect them
+    
+    * chore(build_scripts): Add pipeline for running a standalone container to see if it reduces pipeline test run time
+    
+    * chore(build_scripts): Tweak test pipeline so that it recognizes the pytest.ini file
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Allen Lawrence <allen.lawrence@ccrenew.com>
+
+commit 2e8c22d4da05d9369d2cc720e9b8dbec6d9003b5
+Author: Allen Lawrence <allen.lawrence@ccrenew.com>
+Date:   Thu May 16 21:07:05 2019 +0000
+
+    Merged in dev/change-tracked-testing (pull request #14)
+    
+    dev(sandbox): docker-compose-dev.yml shares entire project directory as volume
+    
+    * dev(sandbox): docker-compose-dev.yml shares entire project directory as volume
+        test(test_changes): new testing script only tests changes for use in development
+        fix(settings): removed all load_dotenv occurrences
+    
+    * fix(sandbox): no longer export build arguments in sandbox script (docker-compose handles this with a .env file). Script spins down docker network even if start up fails.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 368753a3710fca7d3e4ceb5048dc8df794db52b9
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri May 10 20:21:46 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 5b097d2b3671aac2c497e527367dfb29549b0606
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri May 10 19:52:19 2019 +0000
+
+    Merged in chore/forward_curve_service_container_in_sandbox (pull request #12)
+    
+    Chore/forward curve service container in sandbox
+    
+    * chore(): Add forward curve service container to docker compose dev for sandboxing
+    
+    * chore(): Hardcode skip of deprecated tests
+    
+        Previously these tests were ignored in docker-compose.tests.yml, but if you run a sandbox container nad run pytest they wouldn't be ignored, so I hardcoded skipping them so they will always be ignored.
+    
+        Also added test duration to the output of the pipeline test so we can start to understand why tests are taking so long.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 09516f2efdfaa9c600336ad4dca7fe21d3875cb0
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu May 9 01:15:25 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 77044ee5e9102567b74228c80df06435287a7dc5
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu May 9 00:43:20 2019 +0000
+
+    Merged in chore/add_standalone_push_pipeline (pull request #11)
+    
+    chore(): Add push-only pipeline
+    
+    This has proved necessary because sometime the end-to-end test will fail due to a failed node, not an issue with the code. If on a tight timeline, I can rerun the end-to-end test as a standalone pipeline and confirm that it passes, but the only way to get the docker image to push is to rerun the full build_test_push pipeline and hope it doesn't fail. THis can hold up deployment of criitcal fixes. Now, I will be able to push the image and chart and then deploy once I have confirmed that all tests pass.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit c7545902a45ceeb94bf1f9575264e83493568402
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Thu May 9 00:24:01 2019 +0000
+
+    [skip ci] Bump library version
+
+commit 0e6265c6d10aab3cd5f61db1710f09cf70646893
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Wed May 8 22:48:43 2019 +0000
+
+    Merged in hotfix/forward_curve_env_var_in_deploy_env (pull request #10)
+    
+    Hotfix/forward curve env var in deploy env
+    
+    * hotfix(helm): Added FORWARD_CURVE_SERVICE_URI to helm secrets.yaml
+    
+    * chore(daydream_webservice): Clean up successive calls to curve.get_time_periods()
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 15fedc63cdf1e67ab321b2d9b3c19ad24709a21c
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Tue May 7 23:44:19 2019 +0000
+
+    [skip ci] Bump library version
+
+commit db1dd1230551afad34d896fc5c36be9fd9e2b0b0
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue May 7 23:13:58 2019 +0000
+
+    Merged in fix/random_fixes_and_updates (pull request #9)
+    
+    Replace smartsheet interaction with forward curve service and other random fixes/updates
+    
+    * feat(): Replace direct smartsheet interaction with calls to CCR's forward curve service
+    
+        Uses newly minted forward_curves python client lib. Replaced smartsheet interaction that took place in solarproject.module. In daydream_webservice, all calls made to solarproject.module that related to the forward curves were replaced with calls to forward_curves, in keeping with the eventual goal of removing all dependencies on solarproject. The use of the forward_curve package addresses 2 issues: first, direct interaction with smartsheets left us vulnerable to smartsheet outages, whereas forward_curves incorporates a caching layer and will eventualy move away from smartsheets entirely. Second, daydream and solarproject.module were previously using module capacities based on the placed in service date, but the forward curve data is all specified according to purchase order date. The conversion from pis to po date is now also handled using the forward_curves package.
+    
+        Also fixed the handling of a related edge case in SolarProject where an error would occur if a custom module was requested in the loadmodule() call that didn't exist in the db.
+    
+    * fix(): Update GitVersion.yaml to keep version from bumping when BBP updates the library version
+    
+    * chore(build_scripts): Update local scripts to pull BB username/password and BB clone dir name from .env file via docker-compose
+    
+    * chore(): Reduce number of warnings raised for SettingWithCopy and Invalid Value Encountered in True Divide
+    
+    * chore(build_scripts): Further reduce warnings that are output by pytest now that it outputs a warnings summary
+    
+    * fix(energy_model_reports): Update eighty760.py to ensure that availability losses are properly displayed in 8760 loss chart
+    
+    * feat(solarproject): Reduce mono LID loss from 2.5% to 1.5%
+    
+    * fix(models): Remove restriction on tilt being specified for SAT systems
+    
+        This fixes Issue #11
+    
+    * feat(solarproject): Update InverterProperties.csv to reflect nameplate power now going up to 35degC
+    
+        This fixes Issue #4
+    
+    * chore(solarproject): Remove dependency on googlemaps api call to determine state
+    
+        State will now be determined by default by the reverse-geocoder package. Hopefully this at least marginally speeds up run times (one less call across the wire) but I mainly did it because I had credentials hardcoded into SolarProject.py. While trying to figure out how to get rid of them, I realized that we likely didn't need to hit that api at all.
+    
+        This fixes Issue #15
+    
+    * fix(): Update tests to account for new nameplate inverter ratings
+    
+    * chore(): Add additional standalone pipeline for running end2end tests
+    
+    * fix(): Add container for forward curve service to docker-compose ecosystem
+    
+        This addresses the issue that we were seeing in the end-to-end test pipeline, where the test was erroring out due to a call to the forward curve service. Since the bitbucket container was not in CCRs internal network the call was failing. Now, instead, we pull the forward curve image and host the service locally in its own container. Note that the way it's currently setup, the forward curve service container is part of the "base" docker compose ecosystem, so even to run the non-end-to-end tests, you need to pull the image. This pull requires an AWS login step that has been added to all the build test scripts and the end-to-end script.
+    
+    * fix(daydream_webservice): Improve error handling during the first call to the forward curve service
+    
+        Previously this call was wrapped in a try-except that raised an error with *hopefully* more context. However the original error (what you'd want to see for debugging) was only carried along in the traceback which is not displayed if you are just looking at logs from an app container. Instead, I realized that the helpful message that it was displaying before was really only helpful if the error came from the str_pis_converter, which had it's own error handling with a very similar message. As such I removed the try-except entirely.
+    
+    * chore(solarproject): Further reduce occurrences of SettingWithCopy warning
+    
+    * chore(build_scripts): Remove test pipeline
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 7a13af2686a2be4da9b746c10f5c8227a46c1405
+Author: bitbucket-pipelines <commits-noreply@bitbucket.org>
+Date:   Fri May 3 01:11:08 2019 +0000
+
+    [skip ci] Bump library version
+
+commit ebc622a73a79e5b5f087087ea35d87b7307d813c
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Apr 30 23:52:12 2019 +0000
+
+    Merged in fix/inconsistent_array_sizing (pull request #8)
+    
+    Fix/inconsistent array sizing
+    
+    * chore(array_sizing): Make array_sizing module content available at package level and delete placeholder module in the solarproject package
+    
+    * fix(daydream_webservice): Fix Issue #14
+    
+        - Improve error message that is raised when project site is constrained
+    
+        - Ensure that when the sizearray() method is called, the call to get_strings_in_parallel that is made when a site is constrained is still always rounding up. For some reason, before it was rounding up for the first call, but if a site was constrained it was rounding down. The result is that one interation of the loop would occur (resulting in a new "required" dcac ratio), but then the size issue would be solved, because rounding up it was constrained but rounding down it was not constrained. So now everything rounds string count up, all the time.
+    
+    * feat(solarproject): Update arraysizing module to calculate string count and nmodx in PVSyst/CCR style
+    
+        Previously string count was calculated to ensure both whole mnumber of strings AND all complete rows. Similarly, the nmodx calculation required such a string count so it could then get a row count/nmodx value that resulted in a desirable full rectangular array. This was because I was under the impression that complete rows were required in order for SAm to work, but in fact this is not a requirement. As such, I updated the functions such that string count is calculated as the closest number of whole strings that meet the target DC capacity. nmodx is calculated such that the number of rows is not required to be whole, and will be very close to the _target_nrows attr value. This is more in alignment with the way the array sizing is done when using PVSyst and the pptool.
+    
+    * fix(solarproject): Update data/RegionalPerformanceMatrices.csv so that proper GCR limits are applied in all regions
+    
+        This fixes Issue #16
+    
+    * chore(): Update repo so that sandbox script will work with changes to versioning and addition of array_sizing package
+    
+    * chore(test_solarproject): Update test fixture
+    
+    * fix(daydream_webservice): Update integration test to reflect change in constrained-site error message
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 01dca5dc4a34c884405d1a98b6153120a92ffdac
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Apr 30 23:46:48 2019 +0000
+
+    Merged in fix/daydream_webservice_solaranywhere_issue (pull request #7)
+    
+    chore(): Skip SolarAnywhere error test
+    
+    * chore(): Skip SolarAnywhere error test
+    
+        Service is timing out and I'm not really sure what purpose this test serves at this point. I would delete it entirely but just in case we decide to improve it down the line I will just skip for now.
+    
+    * chore(): fix line endings in test/integration_test/test_daydream_webservice/test_daydream_webservice.py
+    
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 59c2a47a11945e1f8b635956e90ddca0c4da8559
+Author: Casey Zak <caseyzak@ccrenew.com>
+Date:   Mon Apr 29 15:15:31 2019 -0700
+
+    chore(): Update permissions for build_scripts/increment_library_version.sh
+
+commit 8731fa94d7fa19b6c8bc108fc7a284b77a4b0bf5
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Fri Apr 26 18:47:23 2019 +0000
+
+    Merged in chore/versioning_with_git_tagging (pull request #5)
+    
+    Update pipeline so that package version numbers are updated with any push to master
+    
+    Package version numbers now referred to the pip-installation metadata, which comes from setup.py. During install, setup.py reads from VERSION.txt. This file is updated by BP to the GitVersion number whenever there is a push to the master remote. The change is then commited in the pipeline and pushed back to the remote master.
+    
+    The end result is that when the lib is pip-installed from the master branch it's version numbers will match that of the app deployed to uat (and potentially prod). Regardless of branch, the lib version numbers will reflect the latest master branch that the lib was built off of.
+    
+    This isn't a perfect solution but its simplicity and the lack of need for githooks (which seem finnicky since they depend on a dev's operating system) make it the best solution I found. If we eventually go to some sort or private package repo inconsistencies would become less of an issue.
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit 2453559eda40275c60bbd7430490bdd11df00741
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Apr 25 18:20:38 2019 +0000
+
+    Merged in feat/diffuse_shading_for_all_scenarios (pull request #4)
+    
+    feat(solarproject): Apply improved diffuse self-shading model to all racking/module technology combinations
+    
+    - Add binaries and make code changes to apply diffuse shading to all scenarios natively in ssc
+    
+    - Adjust sp_mapping in array.py since now some variables are never output by sscplus
+    
+    - Lock in version of certain dependencies to align with ccrmod and avoid break in latest psycopg2 version
+    
+    - Update binaries for improved treatment of diffuse shading (both sky and ground)
+    
+    - Fix check on relative humidity so it stops raising a pandas warning
+    
+    - Expose additional POA signals that are now available from ssc
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 5560a3000d0319bbd0457d3980ea643f7b3fb06e
+Author: Joseph Hack <joseph.hack@ccrenew.com>
+Date:   Wed Apr 10 16:55:51 2019 +0000
+
+    Merged in chore/add_array_sizing (pull request #3)
+    
+    chore(): Add array-sizing package to repo
+    
+    I added the array_sizing package to the energy_model repo along with its
+    tests. I also modified the dockerfile and setup.py to account for these
+    changes.
+    
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit 84c484703850ef4157342b7e289391a71f020b49
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Tue Mar 26 09:43:16 2019 +0000
+
+    Merged in feat/energy_model_reports (pull request #2)
+    
+    Feat/energy model reports
+    
+    * feat(): Add full reporting capabilities to members of project and models packages
+    
+        Each model in the models package now has a _sim_data and enegy_flow attribute and ability to return all subsignals when called. This functionality is extended to the *Sim classes in the project package. All of this is to facilitate reporting.
+    
+        feat(): Add ability to return all signals to SolarProjectACLossesBase and its children classes
+    
+        Also fixed a small bug where the wrong signal was being fed to the ac_losses call in the tests. It didn't get caught because essentially the same clipping step was being applied twice, but some of the tests weren't actually testing what they were supposed to.
+    
+        feat(): Add ability to return all signals to SandiaInverterSet class in inverters.py
+    
+        In order to acess all the necessary signals, also had to modify the sam binary. Rplaced it with the one generated on the feat/export_clipping_loss_pvsandiainv of the ssc repo (maintained on github not bitbucket). Commit in that repo is 6a63718be5431889bd3cc119b992200e526bcba6
+    
+        feat(): Add ability to output all signals to SolarProjectArray in array.py
+    
+        Made changes to solarproject/ssplus.py that facilitated getting all of the required signals out of SolarProject,hly.
+    
+        Also added "_energy_flow" as a class attribute or property to SolarProjectArray, SandiaInverterSet, and SolarProjectACLossesBase. This will facilitate easy generation of an energy flow dataframe by the code that will eventually be in energy_model_reports. We had discussed trying to keep all report-related code outside of the SimBase objects and their sub-objects because having them generate their own report-related material would be pretty hard and messy. However, as I changed SolarProjectACLossesBase so that I could get the necessary info out at all, it became clear that having them generate their own reporting info (not the reports themselves) wouldn't be that difficult. It also increases maintainability because changes to the submodels can be made with minmimal changes to the Sim layer or the reporting layer.
+    
+        feat(): Add ability to return all signals to ArbitrageBattery and AvailabilityDerate classes
+    
+        feat(models/inverter): Add all_signals support for scalar inputs to SandiaInverterSet.__call__
+    
+        fix(models/availability): Update AvailabilityDerate.__call__ to align with math in SolarProject.applyavailloss
+    
+        feat(project/sim): Add all signals output to classes in sim.py
+    
+        chore(project/sim): Add _energy_flow property to Classes in sim.py to faciliate reporting
+    
+        feat(models/losses): Add _sim_data property to classes in losses.py for reporting purposes
+    
+        feat(models/array): Add _sim_data property to SolarProjectArray for reporting purposes and modify the DC Degrader class so that it can properly model first solar degradation
+    
+        FSLR degradation  is 0 in the first year and follows the normal pattern thereafter. Updated SolarProjectArray so that it assigns the proper input values based on the module tech.
+    
+        Combined these two changes into one commit because the changes to the test file were intermingled.
+    
+        feat(models/inverter): Add _sim_data property to SandiaInverter for reporting purposes
+    
+        feat(models/availability): Add _sim_data property to AvailabilityDerate class for reporting
+    
+        feat(models/array): Include uncertainty_data subdict in SolarProjectArray._sim_data
+    
+        feat(models/battery): Add _sim_data property for reporting purposes
+    
+        chore(models/array): Add p-value derates to the 'uncertainty_data' section of the _sim_data property dict generated by SolarProjectArray
+    
+        feat(project/sim): Add _sim_data property to classes in sim.py to facilate reporting
+    
+        fix(project/sim): Change output type of TMYSolarSim.run_year0(all_signals=True) to a dict so that the output data type of the method is consistent regardless of the keywrd args used
+    
+    * feat(): Add energy_model_reports package for generating reports from sim objects
+    
+        The first module in the new package (model_record_managers) generates data in easily parseable data objects that can be eventually converted into some sort of record/reporting object.
+    
+        Addendum to previous commit
+    
+        feat(energy_model_reports): Add TMYRecord class in sim module
+    
+        This class is an interface between simulation objects and reportin functionality. Since simulation objects and reporting functions both change somewhat frequently, it's useful to have an inteface between the two that (hopefully) doesn't change very often.
+    
+        In the future this class may have the ability to write its sim_data attribute to a data bucket, but currently the functionality is disabled.
+    
+        feat(energy_model_reports): Add basic_rollups module for doing basic reporting based on TMYRecord objects
+    
+        feat(): Add eighty760 module to energy_model_reports package
+    
+        Compared to previous iterations of this module, the eighty760() function has been replaced by the add_8760_sheets function, which operates in-place on a xlsxwriter.Workbook instance. This pattern allows for the usert add additional sheets to the workbook after the 8760 has been "created".
+    
+        The testing process also revealed many small bugs and testing weaknesses that have  been resolved.
+    
+    * chore(): Update helm secrets template
+    
+    * feat(daydream_webservice): Modify daydream webservice to utilize TMYSolarSim and not record/report parts of solarproject
+    
+        Now daydream_webservice uses the functionality in the project and energy_model_reports packages. This allows it to take advantage of the new 8760 functionality in energy_model_reports. It also no longer interacts with the energy_model_database package in solarproject.
+    
+        I also fixed several issues that were discovered during test development.
+    
+        Finally, I changed the test docker-compose to not use pytest xdist because there seems to be an issue with it. Once I've identified a stable version I'll update further
+    
+    * chore(): Remove test support for some solarproject packages from the CICD testing process
+    
+    * chore(): Remove uneccessary environment variable from docker compose files
+    
+    * fix(): Modify setup.py so that subpackages are actually installed
+    
+    * fix(losses): Change horizon_shading_loss argument in SolarProjectACLossesBase to keyword argument because realized that as positional argument it breaks current high level interface in ccrmod
+    
+    * fix(losses): Modify load_ac_losses() per previous commit
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+    Approved-by: Allen Lawrence <allen.lawrence@ccrenew.com>
+    Approved-by: Eric Brown <eric.brown@ccrenew.com>
+
+commit f4053b99332bab3abf20b615531883903f9c2ed9
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Thu Mar 7 21:25:37 2019 +0000
+
+    Merged in chore/set_up_repo (pull request #1)
+    
+    Chore/set up repo
+    
+    * chore(): Set up repo and move over solarproject code
+    
+        took code from solarproject master branch commit 1456775. Haven't yet confirmed that daydream service works yet.
+    
+        fix(): Modify number of processes for test docker compose to facilitate running on pipelines
+    
+        fix(): Add solarproject package to Dockerfile-e2e so that it will run
+    
+        fix(): Correct multiple small errors left over from migration that were keeping e2e test from passing
+    
+    * feat(): Add in the project and models packages from ccrmod and associated tests
+    
+        Had to modify parts of the code and tests to account for updates to the solarproject package, which the project and models packages had not been updated to handle
+    
+        Also made some afdditional improvements to the build scripts
+    
+    * feat(): Update  model in losses.py to include horizon shading
+    
+        Currently there is a pull request for this feature open on ccrmod, so when I ported everything over I didn't catch it.
+    
+        fix
+    
+    Approved-by: Casey Zak <casey.zak@ccrenew.com>
+
+commit c0b05a693dbcc240aaf3cd540ce7765e65c47c98
+Author: Casey Zak <casey.zak@ccrenew.com>
+Date:   Mon Mar 4 02:26:13 2019 +0000
+
+    chore(): create README.md online with Bitbucket
