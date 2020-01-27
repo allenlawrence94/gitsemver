@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "semver"
-version = "0.1.0"
+version = "0.2.0"
 description = "semantic versioning from git history"
 authors = ["Allen Lawrence"]
 
