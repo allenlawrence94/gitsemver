@@ -1,5 +1,5 @@
 import re
-from semver.config import Config
+from .config import Config
 import attr as a
 
 

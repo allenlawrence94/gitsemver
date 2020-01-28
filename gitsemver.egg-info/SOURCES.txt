@@ -1,0 +1,16 @@
+setup.py
+gitsemver/__init__.py
+gitsemver/config.py
+gitsemver/index.py
+gitsemver/parse.py
+gitsemver/version.py
+gitsemver.egg-info/PKG-INFO
+gitsemver.egg-info/SOURCES.txt
+gitsemver.egg-info/dependency_links.txt
+gitsemver.egg-info/entry_points.txt
+gitsemver.egg-info/requires.txt
+gitsemver.egg-info/top_level.txt
+test/test_config.py
+test/test_index.py
+test/test_parse.py
+test/test_version.py

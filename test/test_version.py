@@ -1,5 +1,5 @@
 import pytest
-from semver.version import Versioner
+from gitsemver.version import Versioner
 
 
 @pytest.fixture(scope='function')

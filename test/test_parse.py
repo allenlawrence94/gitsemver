@@ -1,6 +1,6 @@
 from test.fixture import git_logs, semver_config
-from semver.parse import LogParser
-from semver.config import Config
+from gitsemver.parse import LogParser
+from gitsemver.config import Config
 import pytest
 
 

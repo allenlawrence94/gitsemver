@@ -1,6 +1,6 @@
 import pytest
 from pathlib import Path
-from semver.config import Config
+from gitsemver.config import Config
 
 
 FIXTURE = Path(__file__).parent
@@ -14,5 +14,5 @@ def git_logs():
 
 @pytest.fixture(scope='session')
 def semver_config():
-    return Config.from_yaml(FIXTURE/'semver.yml')
+    return Config.from_yaml(FIXTURE/'gitsemver.yml')
 

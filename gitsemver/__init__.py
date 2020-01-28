@@ -1,10 +1,10 @@
 from .index import semver
 from .config import Config
-from subprocess import run
 from pathlib import Path
+from subprocess import run
 
 
-if __name__ == '__main__':
+def main():
     logs = run(['git', 'log'], capture_output=True).stdout.decode()
-    config = Config.from_yaml(Path.cwd()/'semver.yml')
+    config = Config.from_yaml(Path.cwd() / 'gitsemver.yml')
     print(semver(logs, config))

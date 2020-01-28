@@ -1,4 +1,4 @@
-from semver.index import semver
+from gitsemver.index import semver
 from test.fixture import semver_config, git_logs
 
 
