@@ -13,7 +13,7 @@ class LogParser(object):
     config: Config
 
     @property
-    def commit_match(self) -> re.Pattern:
+    def commit_match(self):
         return re.compile(f'\\n\\n\\s{{4}}({self.config.major}|{self.config.minor}|{self.config.patch}).*\\n\\n')
 
     @property

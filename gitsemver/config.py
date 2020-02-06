@@ -1,4 +1,3 @@
-from __future__ import annotations
 from yaml import safe_load
 from collections import OrderedDict
 import attr as a
@@ -12,7 +11,7 @@ class Config(object):
     patch: str
 
     @classmethod
-    def from_yaml(cls, path: str) -> Config:
+    def from_yaml(cls, path: str):
         with open(path, 'r') as f:
             return cls(**safe_load(f))
 
